@@ -17,7 +17,7 @@
   <img align="center" alt="pandas" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="mysql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img align="center" alt="jamal" height="80" width="110"             src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" /></a>   
-<!--   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
+  <img align="center" alt="tubas" height="80" width="110" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.bmp">
   
 <!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> --><!--   <img align="center" alt="Rafa-Js" height="60" width="80" src=https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg> -->
 
