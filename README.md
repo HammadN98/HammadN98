@@ -1,52 +1,26 @@
-### OI, eu sou o <s>Goku</s> Nimer 👋
 
-<div align="center">
-  <a href="https://github.com/HammadN98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HammadN98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadN98&layout=compact&langs_count=7&theme=dracula"/> -->
-</div>
+<h1 align="left">Opa 👋 Nimer aqui,</h1>
+<h3 align="left">Sou estudante de Ciência da Computação na Universidade Federal do Pampa, campus Alegrete. 
   
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Entusiasta pela área de dados, desde a análise à ciência.</h3>
 
-#### Habilidades:
-  
-  <div style="display: inline_block"><br>
+- 🔭 Trabalhando em [Deploy de uma aplicação web com o framework streamlit](https://github.com/HammadN98/credito_bancario)
 
-<!--   <img align="center" alt="python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> -->
-  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="numpy" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="pandas" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="tubas" height="80" width="110" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.bmp">
-  <img align="center" alt="mysql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img align="center" alt="jamal" height="80" width="110"             src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" /></a>   
-  
-  
-<!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> --><!--   <img align="center" alt="Rafa-Js" height="60" width="80" src=https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg> -->
+- 🌱 Estou estudando no momento a ferramenta **Power Bi**
 
-  
-</div>
-  
+- 💬 Pergunte-me sobre **Data Science, Data Analytics, Python, Pandas, Machine Learn**
 
-  
-  <div>  
-    
+- 📫 Contato **nimerhammad98@gmail.com**
 
-    
-    
------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
-    
-#### Contato:
-    
-  <a href="https://www.instagram.com/hammadnimer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nimerhammad98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hammad-nimer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
-  </div> 
-<!--    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> numpy
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> pandas
-python <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hammad-nimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad-nimer" height="30" width="40" /></a>
+<a href="https://instagram.com/hammadnimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammadnimer" height="30" width="40" /></a>
+</p>
 
-https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg
-<a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" /></a>
--->x
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadn98&show_icons=true&theme=onedark&locale=en" alt="hammadn98" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadn98&" alt="hammadn98" /></p> -->
