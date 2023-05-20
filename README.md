@@ -6,7 +6,7 @@ Entusiasta pela área de dados, desde a análise à ciência.</h3>
 
 - 🔭 Trabalhando em [Deploy de uma aplicação web com o framework streamlit](https://github.com/HammadN98/credito_bancario)
 
-- 🌱 Estou estudando no momento a ferramenta **Power Bi**
+- 🌱 Estou estudando no momento a ferramenta **AWS**
 
 - 💬 Pergunte-me sobre **Data Science, Data Analytics, Python, Pandas, Machine Learn**
 
