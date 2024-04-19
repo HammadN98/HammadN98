@@ -14,7 +14,7 @@
  
  🌱  Estou estudando no momento a ferramenta **POWER BI**
 
-💬  Pergunte-me sobre **Data Science, Data Analytics, Python, Pandas, Machine Learn**[here] (https://github.com/HammadN98/HammadN98/issues)**
+💬  Pergunte-me sobre **Data Science, Data Analytics, Python, Pandas, Machine Learn** [here](https://github.com/HammadN98/HammadN98/issues)**
 
 
 
