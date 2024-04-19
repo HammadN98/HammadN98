@@ -26,7 +26,7 @@ Entusiasta pela área de dados, desde a análise à ciência.</h3>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadn98&" alt="hammadn98" /></p> [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) -->
 
 
-  <img width=390 src="https://github-readme-streak-stats-hammadn98.vercel.app/?user=hammadn98&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-hammadn98.vercel.app/?user=hammadn98&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-hammadn98.vercel.app/api?username=hammadn98&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-hammadn98.vercel.app/api/top-langs/?username=hammadn98&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
