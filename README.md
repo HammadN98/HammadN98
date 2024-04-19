@@ -14,7 +14,7 @@
  
  🌱  Estou estudando no momento a ferramenta **POWER BI**
 
-💬  Pergunte-me sobre **Data Science, Data Analytics, Python, Pandas, Machine Learn [here](https://github.com/HammadN98/HammadN98/issues)**
+💬  Pergunte-me sobre **Data Science, Data Analytics, Python, Pandas, Machine Learn [AQUI](https://github.com/HammadN98/HammadN98/issues)**
 
 
 
@@ -58,4 +58,4 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-HammadN98.vercel.app/api/top-langs/?username=HammadN98&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HammadN98)](https://github.com/HammadN98/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiHammadN98e=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
