@@ -1,27 +1,60 @@
+[<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sHammadN98.HammadN98"/>]
 
-<h1 align="left">Opa 👋 Nimer aqui,</h1>
-<h3 align="left">Sou estudante de Ciência da Computação na Universidade Federal do Pampa, campus Alegrete. 
-  
-Entusiasta pela área de dados, desde a análise à ciência.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Falaa+CPX!+👋;+Nimer+Aqui!;" />
+</h1>
 
-- 🔭 Trabalhando  na formacao [Power BI Analyst](https://www.dio.me/curso-power-bi)
+<h3 align="center">Alguem que ta aprendendo a usar dados</h3>
 
-- 🌱 Estou estudando no momento a ferramenta **POWER BI**
+<br/>
 
-- 💬 Pergunte-me sobre **Data Science, Data Analytics, Python, Pandas, Machine Learn**
+ <div align="center">
+ 
+ 🔭 Trabalhando na formacao [Power BI Analyst](https://www.dio.me/curso-power-bi)
+ 
+ 🌱  Estou estudando no momento a ferramenta **POWER BI**
 
-- 📫 Contato **nimerhammad98@gmail.com**
+💬  Pergunte-me sobre **Data Science, Data Analytics, Python, Pandas, Machine Learn**[here](https://github.com/HammadN98/HammadN98/issues)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hammad-nimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad-nimer" height="30" width="40" /></a>
-<a href="https://instagram.com/hammadnimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammadnimer" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadn98&show_icons=true&theme=onedark&locale=en" alt="hammadn98" /></p>
+ </div>
+ 
+<div align="center"> 
+  <a href="nimerhammad98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+ <!-- <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options
+  </a> --> 
+</div>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadn98&" alt="hammadn98" /></p> [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) -->
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,sklearn,tensorflow,opencv,pytorch" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
+</div>
+
+<br/>
+<hr/>
+
+
+<br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-HammadN98.vercel.app/?user=HammadN98&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-HammadN98.vercel.app/api?username=HammadN98&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-HammadN98.vercel.app/api/top-langs/?username=HammadN98&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
