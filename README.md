@@ -9,9 +9,9 @@
 
  <div align="center">
  
- 🔭 Trabalhando na formacao [Power BI Analyst](https://www.dio.me/curso-power-bi)
+ 🔭 Trabalhando na [Formação Machine Learning Specialist](https://www.dio.me/curso-machine-learning)
  
- 🌱  Estou estudando no momento a ferramenta **POWER BI**
+ 🌱  Estou estudando no momento **Estatistica**
 
 💬  Pergunte-me sobre **Data Science, Data Analytics, Machine Learn [AQUI](https://github.com/HammadN98/HammadN98/issues)**
 
