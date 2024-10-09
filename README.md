@@ -3,17 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Falaa+CPX!+👋;+Nimer+Aqui!;" />
 </h1>
 
-<h2 align="center">Alguem que ta aprendendo a usar dados, simples assim</h2>
+<h2 align="center">Alguem que ta aprendendo a usar dados</h2>
 
 <br/>
 
  <div align="center">
  
- 🔭 Trabalhando na [Formação Machine Learning Specialist](https://www.dio.me/curso-machine-learning)
+ <!--🔭 Trabalhando na [Formação Machine Learning Specialist](https://www.dio.me/curso-machine-learning)-->
  
- 🌱  Estou estudando no momento **Estatistica**
+ 🌱  Estou estudando no momento **Pytorch para Deep Learning**
 
-💬  Pergunte-me sobre **Data Science, Data Analytics, Machine Learn [AQUI](https://github.com/HammadN98/HammadN98/issues)**
+💬  Pergunte-me sobre **Data Science, Machine Learn e Deep Learning[AQUI](https://github.com/HammadN98/HammadN98/issues)**
 
 
 
