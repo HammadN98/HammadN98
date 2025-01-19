@@ -11,7 +11,7 @@
  
  <!--🔭 Trabalhando na [Formação Machine Learning Specialist](https://www.dio.me/curso-machine-learning)-->
  
- 🌱  Estou estudando no momento **Pytorch para Deep Learning**
+ 🌱  Estou estudando no momento **Deploy de modelos em nuvem**
 
 💬  Pergunte-me sobre **Data Science, Machine Learn e Deep Learning[AQUI](https://github.com/HammadN98/HammadN98/issues)**
 
