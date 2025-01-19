@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Falaa+CPX!+👋;+Nimer+Aqui!;" />
 </h1>
 
-<h2 align="center">Alguem que ta aprendendo a usar dados</h2>
+<h2 align="center">Alguem que esta aprendendo a cutucar dados</h2>
 
 <br/>
 
